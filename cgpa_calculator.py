@@ -1,4 +1,3 @@
-
 #CGPA calculator
 
 cgpa=0
